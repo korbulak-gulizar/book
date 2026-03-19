@@ -1,0 +1,28 @@
+.index-card {
+  width: 260px !important;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.index-card.ant-card {
+  width: 260px !important;
+  flex: none !important;
+}
+
+.index-card .ant-card-body {
+  width: 100% !important;
+  padding: 16px;
+}
+
+.index-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+
+.index-card img {
+  height: 160px;
+  object-fit: cover;
+}

@@ -1,0 +1,40 @@
+.navbar {
+  .ant-layout-header {
+    background: #a09d6a; // gradient istersen aşağıda vereceğim
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+  }
+
+  .ant-menu {
+    background-color: #a09d6a;
+    border-bottom: none;
+    flex: 1;
+    justify-content: space-between;
+
+    .ant-menu-item {
+      font-size: 16px;
+      font-weight: 500;
+      padding: 0 20px;
+
+      a {
+        color: #141313;
+      }
+
+      &:hover a {
+        color: #252423;
+      }
+    }
+
+    .ant-menu-item-selected {
+      background: rgba(254, 249, 249, 0.15);
+      border-radius: 6px;
+
+      a {
+        color: #131212 !important;
+      }
+    }
+  }
+}

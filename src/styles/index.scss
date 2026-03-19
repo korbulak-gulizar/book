@@ -1,0 +1,54 @@
+.index {
+  width: 100%;
+  height: 100vh;
+  //background-image: url("../assets/Index.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #a09d6a;
+  display: flex;
+  justify-content: center; // yatay ortalama
+  align-items: center; // dikey ortalama
+  text-align: center; // metni ortala
+}
+
+.index-page {
+  display: flex;
+  flex-direction: column; // başlık yukarıda, kartlar aşağıda
+  align-items: center;
+  gap: 30px;
+}
+
+.index-title {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #d7cdcd;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.index-card {
+  width: 300px; // kart genişliği
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); // shadow geri geldi
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+  }
+}
+
+.index-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.cards-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}

@@ -1,0 +1,5 @@
+{
+  "gunlukler": [
+    { "id": 1, "baslik": "İlk Günlük", "icerik": "Bugün React kurdum." }
+  ]
+}

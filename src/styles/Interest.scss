@@ -1,0 +1,13 @@
+.interest-page {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../assets/interest.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #a09d6a;
+  display: flex;
+  justify-content: center; // yatay ortalama
+  align-items: center; // dikey ortalama
+  text-align: center; // metni ortala
+}
