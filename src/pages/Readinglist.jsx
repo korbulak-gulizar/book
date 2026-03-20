@@ -83,7 +83,15 @@ export default function ReadingList() {
           value={form.endDate}
           onChange={(e) => setForm({ ...form, endDate: e.target.value })}
         />
-        <Button type="primary" onClick={handleAdd}>
+        <Button
+          style={{
+            background: "linear-gradient(135deg,rgb(163, 162, 136), #5d5a2b)",
+            border: "none",
+            color: "#fff",
+          }}
+          type="primary"
+          onClick={handleAdd}
+        >
           Add
         </Button>
       </Space>
