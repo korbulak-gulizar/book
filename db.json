@@ -1,5 +1,173 @@
 {
-  "gunlukler": [
-    { "id": 1, "baslik": "İlk Günlük", "icerik": "Bugün React kurdum." }
-  ]
+  "readingList": [
+    {
+      "id": "3",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "startDate": "2024-02-15",
+      "endDate": "2024-03-01"
+    },
+    {
+      "id": "4",
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "startDate": "2024-03-05",
+      "endDate": "2024-03-18"
+    },
+    {
+      "id": "5",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "startDate": "2024-03-20",
+      "endDate": "2024-04-02"
+    },
+    {
+      "id": "6",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "startDate": "2024-04-10",
+      "endDate": "2024-04-30"
+    },
+    {
+      "id": "7",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "startDate": "2024-05-01",
+      "endDate": "2024-05-12"
+    },
+    {
+      "id": "8",
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "startDate": "2024-05-15",
+      "endDate": "2024-06-01"
+    },
+    {
+      "id": "9",
+      "title": "The Four Agreements",
+      "author": "Don Miguel Ruiz",
+      "startDate": "2024-06-05",
+      "endDate": "2024-06-12"
+    },
+    {
+      "id": "10",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "startDate": "2024-06-20",
+      "endDate": "2024-07-01"
+    },
+    {
+      "id": "11",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "startDate": "2024-07-05",
+      "endDate": "2024-07-18"
+    },
+    {
+      "id": "12",
+      "title": "Ikigai",
+      "author": "Héctor García",
+      "startDate": "2024-07-20",
+      "endDate": "2024-07-28"
+    },
+    {
+      "id": "13",
+      "title": "The Mountain Is You",
+      "author": "Brianna Wiest",
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-12"
+    },
+    {
+      "id": "14",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "startDate": "2024-08-15",
+      "endDate": "2024-08-30"
+    },
+    {
+      "id": "15",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "startDate": "2024-09-01",
+      "endDate": "2024-09-20"
+    },
+    {
+      "id": "16",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "startDate": "2024-09-25",
+      "endDate": "2024-10-05"
+    },
+    {
+      "id": "17",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "startDate": "2024-10-10",
+      "endDate": "2024-10-30"
+    },
+    {
+      "id": "18",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "startDate": "2024-11-01",
+      "endDate": "2024-11-03"
+    },
+    {
+      "id": "19",
+      "title": "1984",
+      "author": "George Orwell",
+      "startDate": "2024-11-05",
+      "endDate": "2024-11-15"
+    },
+    {
+      "id": "20",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "startDate": "2024-11-20",
+      "endDate": "2024-12-01"
+    },
+    {
+      "id": "21",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "startDate": "2024-12-05",
+      "endDate": "2024-12-12"
+    },
+    {
+      "id": "22",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "startDate": "2024-12-15",
+      "endDate": "2024-12-28"
+    },
+    {
+      "id": "23",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "startDate": "2025-01-02",
+      "endDate": "2025-01-12"
+    },
+    {
+      "id": "24",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "startDate": "2025-01-15",
+      "endDate": "2025-02-01"
+    },
+    {
+      "id": "25",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "startDate": "2025-02-05",
+      "endDate": "2025-02-20"
+    },
+    {
+      "id": "2288",
+      "title": "serenad",
+      "author": "Zülfi Livaneli",
+      "startDate": "20.03.2026",
+      "endDate": "20.10.2026"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
