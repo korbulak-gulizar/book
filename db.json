@@ -6,9 +6,15 @@
       "author": "James Clear",
       "startDate": "2024-01-05",
       "endDate": "2024-01-20",
-      "day": "2024-01-10",
+      "day": 10,
       "duration": 45,
-      "pagesRead": 32
+      "pagesRead": 32,
+      "genre": "Self-Help",
+      "pages": 320,
+      "rating": 5,
+      "summary": "A practical guide on building small habits that lead to remarkable results.",
+      "favoriteQuote": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "finalThought": "Life-changing and extremely actionable."
     },
     {
       "id": 2,
@@ -16,9 +22,15 @@
       "author": "Paulo Coelho",
       "startDate": "2024-02-01",
       "endDate": "2024-02-10",
-      "day": "2024-02-05",
+      "day": 5,
       "duration": 30,
-      "pagesRead": 25
+      "pagesRead": 25,
+      "genre": "Fiction",
+      "pages": 208,
+      "rating": 5,
+      "summary": "A philosophical story about following your dreams.",
+      "favoriteQuote": "When you want something, all the universe conspires in helping you to achieve it.",
+      "finalThought": "Beautiful, inspiring, timeless."
     },
     {
       "id": 3,
@@ -26,9 +38,15 @@
       "author": "Cal Newport",
       "startDate": "2024-02-15",
       "endDate": "2024-03-01",
-      "day": "2024-02-20",
+      "day": 20,
       "duration": 60,
-      "pagesRead": 40
+      "pagesRead": 40,
+      "genre": "Productivity",
+      "pages": 304,
+      "rating": 4,
+      "summary": "A guide to mastering focus in a distracted world.",
+      "favoriteQuote": "Clarity about what matters provides clarity about what does not.",
+      "finalThought": "Very useful for improving concentration."
     },
     {
       "id": 4,
@@ -36,9 +54,15 @@
       "author": "Eckhart Tolle",
       "startDate": "2024-03-05",
       "endDate": "2024-03-18",
-      "day": "2024-03-10",
+      "day": 10,
       "duration": 35,
-      "pagesRead": 22
+      "pagesRead": 22,
+      "genre": "Spirituality",
+      "pages": 236,
+      "rating": 4,
+      "summary": "A guide to living in the present moment.",
+      "favoriteQuote": "Realize deeply that the present moment is all you ever have.",
+      "finalThought": "Calming and thought‑provoking."
     },
     {
       "id": 5,
@@ -46,9 +70,15 @@
       "author": "Tara Westover",
       "startDate": "2024-03-20",
       "endDate": "2024-04-02",
-      "day": "2024-03-25",
+      "day": 25,
       "duration": 50,
-      "pagesRead": 38
+      "pagesRead": 38,
+      "genre": "Memoir",
+      "pages": 352,
+      "rating": 5,
+      "summary": "A memoir about resilience, education, and transformation.",
+      "favoriteQuote": "You can love someone and still choose to say goodbye.",
+      "finalThought": "Powerful and emotional."
     },
     {
       "id": 6,
@@ -56,9 +86,15 @@
       "author": "Yuval Noah Harari",
       "startDate": "2024-04-10",
       "endDate": "2024-04-30",
-      "day": "2024-04-15",
+      "day": 15,
       "duration": 70,
-      "pagesRead": 45
+      "pagesRead": 45,
+      "genre": "History",
+      "pages": 498,
+      "rating": 5,
+      "summary": "A history of humankind from evolution to modern society.",
+      "favoriteQuote": "Culture tends to argue that it forbids only that which is unnatural.",
+      "finalThought": "Mind‑expanding and fascinating."
     },
     {
       "id": 7,
@@ -66,9 +102,15 @@
       "author": "Mark Manson",
       "startDate": "2024-05-01",
       "endDate": "2024-05-12",
-      "day": "2024-05-05",
+      "day": 5,
       "duration": 40,
-      "pagesRead": 28
+      "pagesRead": 28,
+      "genre": "Self-Help",
+      "pages": 224,
+      "rating": 4,
+      "summary": "A counterintuitive approach to living a good life.",
+      "favoriteQuote": "You’re not special. And that’s okay.",
+      "finalThought": "Honest, funny, refreshing."
     },
     {
       "id": 8,
@@ -76,9 +118,15 @@
       "author": "Michelle Obama",
       "startDate": "2024-05-15",
       "endDate": "2024-06-01",
-      "day": "2024-05-20",
+      "day": 20,
       "duration": 55,
-      "pagesRead": 36
+      "pagesRead": 36,
+      "genre": "Memoir",
+      "pages": 448,
+      "rating": 5,
+      "summary": "Michelle Obama's journey from childhood to the White House.",
+      "favoriteQuote": "Your story is what you have, what you will always have.",
+      "finalThought": "Inspiring and beautifully written."
     },
     {
       "id": 9,
@@ -86,9 +134,15 @@
       "author": "Don Miguel Ruiz",
       "startDate": "2024-06-05",
       "endDate": "2024-06-12",
-      "day": "2024-06-07",
+      "day": 7,
       "duration": 25,
-      "pagesRead": 18
+      "pagesRead": 18,
+      "genre": "Spirituality",
+      "pages": 160,
+      "rating": 4,
+      "summary": "A guide to personal freedom based on ancient wisdom.",
+      "favoriteQuote": "Be impeccable with your word.",
+      "finalThought": "Simple yet powerful."
     },
     {
       "id": 10,
@@ -96,159 +150,270 @@
       "author": "Matt Haig",
       "startDate": "2024-06-20",
       "endDate": "2024-07-01",
-      "day": "2024-06-25",
+      "day": 25,
       "duration": 45,
-      "pagesRead": 30
+      "pagesRead": 30,
+      "genre": "Fiction",
+      "pages": 304,
+      "rating": 4,
+      "summary": "A story about choices, regrets, and alternate lives.",
+      "favoriteQuote": "You don’t have to understand life. You just have to live it.",
+      "finalThought": "Emotional and imaginative."
     },
+
     {
       "id": 11,
       "title": "The Psychology of Money",
       "author": "Morgan Housel",
       "startDate": "2024-07-05",
       "endDate": "2024-07-18",
-      "day": "2024-07-10",
+      "day": 10,
       "duration": 35,
-      "pagesRead": 24
+      "pagesRead": 24,
+      "genre": "Finance",
+      "pages": 256,
+      "rating": 5,
+      "summary": "Timeless lessons on wealth, greed, and happiness.",
+      "favoriteQuote": "No one is crazy about money.",
+      "finalThought": "Clear, wise, and practical."
     },
+
     {
       "id": 12,
       "title": "Ikigai",
       "author": "Héctor García",
       "startDate": "2024-07-20",
       "endDate": "2024-07-28",
-      "day": "2024-07-22",
+      "day": 22,
       "duration": 20,
-      "pagesRead": 15
+      "pagesRead": 15,
+      "genre": "Self-Help",
+      "pages": 208,
+      "rating": 4,
+      "summary": "A look into the Japanese secret to a long and happy life.",
+      "favoriteQuote": "Only staying active will make you want to live a hundred years.",
+      "finalThought": "Light and uplifting."
     },
+
     {
       "id": 13,
       "title": "The Mountain Is You",
       "author": "Brianna Wiest",
       "startDate": "2024-08-01",
       "endDate": "2024-08-12",
-      "day": "2024-08-05",
+      "day": 5,
       "duration": 30,
-      "pagesRead": 20
+      "pagesRead": 20,
+      "genre": "Self-Help",
+      "pages": 248,
+      "rating": 4,
+      "summary": "A guide to transforming self-sabotage into self-mastery.",
+      "favoriteQuote": "Your new life is going to cost you your old one.",
+      "finalThought": "Emotional and empowering."
     },
+
     {
       "id": 14,
       "title": "The Silent Patient",
       "author": "Alex Michaelides",
       "startDate": "2024-08-15",
       "endDate": "2024-08-30",
-      "day": "2024-08-20",
+      "day": 20,
       "duration": 50,
-      "pagesRead": 35
+      "pagesRead": 35,
+      "genre": "Thriller",
+      "pages": 336,
+      "rating": 5,
+      "summary": "A psychological thriller about a woman who stops speaking.",
+      "favoriteQuote": "We often mistake love for ownership.",
+      "finalThought": "Twisty and addictive."
     },
+
     {
       "id": 15,
       "title": "The 7 Habits of Highly Effective People",
       "author": "Stephen R. Covey",
       "startDate": "2024-09-01",
       "endDate": "2024-09-20",
-      "day": "2024-09-10",
+      "day": 10,
       "duration": 60,
-      "pagesRead": 42
+      "pagesRead": 42,
+      "genre": "Self-Help",
+      "pages": 381,
+      "rating": 5,
+      "summary": "A framework for personal and professional effectiveness.",
+      "favoriteQuote": "Begin with the end in mind.",
+      "finalThought": "Classic and transformative."
     },
+
     {
       "id": 16,
       "title": "Rich Dad Poor Dad",
       "author": "Robert Kiyosaki",
       "startDate": "2024-09-25",
       "endDate": "2024-10-05",
-      "day": "2024-09-28",
+      "day": 28,
       "duration": 30,
-      "pagesRead": 22
+      "pagesRead": 22,
+      "genre": "Finance",
+      "pages": 336,
+      "rating": 4,
+      "summary": "A story about financial mindset and wealth building.",
+      "favoriteQuote": "The poor and the middle class work for money. The rich have money work for them.",
+      "finalThought": "Simple but eye-opening."
     },
+
     {
       "id": 17,
       "title": "The Book Thief",
       "author": "Markus Zusak",
       "startDate": "2024-10-10",
       "endDate": "2024-10-30",
-      "day": "2024-10-15",
+      "day": 15,
       "duration": 55,
-      "pagesRead": 40
+      "pagesRead": 40,
+      "genre": "Historical Fiction",
+      "pages": 552,
+      "rating": 5,
+      "summary": "A story of a young girl in Nazi Germany who finds solace in books.",
+      "favoriteQuote": "I am haunted by humans.",
+      "finalThought": "Heartbreaking and unforgettable."
     },
+
     {
       "id": 18,
       "title": "The Little Prince",
       "author": "Antoine de Saint-Exupéry",
       "startDate": "2024-11-01",
       "endDate": "2024-11-03",
-      "day": "2024-11-02",
+      "day": 2,
       "duration": 15,
-      "pagesRead": 12
+      "pagesRead": 12,
+      "genre": "Fiction",
+      "pages": 96,
+      "rating": 5,
+      "summary": "A poetic tale about childhood, love, and imagination.",
+      "favoriteQuote": "What is essential is invisible to the eye.",
+      "finalThought": "Pure and magical."
     },
+
     {
       "id": 19,
       "title": "1984",
       "author": "George Orwell",
       "startDate": "2024-11-05",
       "endDate": "2024-11-15",
-      "day": "2024-11-08",
+      "day": 8,
       "duration": 40,
-      "pagesRead": 30
+      "pagesRead": 30,
+      "genre": "Dystopian",
+      "pages": 328,
+      "rating": 5,
+      "summary": "A chilling vision of a totalitarian future.",
+      "favoriteQuote": "Big Brother is watching you.",
+      "finalThought": "Dark but brilliant."
     },
+
     {
       "id": 20,
       "title": "Brave New World",
       "author": "Aldous Huxley",
       "startDate": "2024-11-20",
       "endDate": "2024-12-01",
-      "day": "2024-11-25",
+      "day": 25,
       "duration": 50,
-      "pagesRead": 34
+      "pagesRead": 34,
+      "genre": "Dystopian",
+      "pages": 311,
+      "rating": 4,
+      "summary": "A futuristic society built on control and pleasure.",
+      "favoriteQuote": "Words can be like X-rays if you use them properly.",
+      "finalThought": "Thought-provoking and unsettling."
     },
+
     {
       "id": 21,
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "startDate": "2024-12-05",
       "endDate": "2024-12-12",
-      "day": "2024-12-08",
+      "day": 8,
       "duration": 25,
-      "pagesRead": 18
+      "pagesRead": 18,
+      "genre": "Classic",
+      "pages": 180,
+      "rating": 4,
+      "summary": "A tragic story of love, wealth, and illusion.",
+      "favoriteQuote": "So we beat on, boats against the current.",
+      "finalThought": "Elegant and melancholic."
     },
+
     {
       "id": 22,
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "startDate": "2024-12-15",
       "endDate": "2024-12-28",
-      "day": "2024-12-20",
+      "day": 20,
       "duration": 45,
-      "pagesRead": 30
+      "pagesRead": 30,
+      "genre": "Classic",
+      "pages": 281,
+      "rating": 5,
+      "summary": "A story of justice, morality, and childhood.",
+      "favoriteQuote": "Real courage is when you know you're licked before you begin.",
+      "finalThought": "Powerful and timeless."
     },
+
     {
       "id": 23,
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "startDate": "2025-01-02",
       "endDate": "2025-01-12",
-      "day": "2025-01-05",
+      "day": 5,
       "duration": 35,
-      "pagesRead": 25
+      "pagesRead": 25,
+      "genre": "Classic",
+      "pages": 214,
+      "rating": 4,
+      "summary": "A rebellious teenager’s journey through New York.",
+      "favoriteQuote": "Don't ever tell anybody anything. If you do, you start missing everybody.",
+      "finalThought": "Unique voice and perspective."
     },
+
     {
       "id": 24,
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "startDate": "2025-01-15",
       "endDate": "2025-02-01",
-      "day": "2025-01-20",
+      "day": 20,
       "duration": 70,
-      "pagesRead": 50
+      "pagesRead": 50,
+      "genre": "Fantasy",
+      "pages": 310,
+      "rating": 5,
+      "summary": "Bilbo Baggins’ unexpected adventure through Middle‑earth.",
+      "favoriteQuote": "There is nothing like looking, if you want to find something.",
+      "finalThought": "Charming and adventurous."
     },
+
     {
       "id": 25,
       "title": "The Kite Runner",
       "author": "Khaled Hosseini",
       "startDate": "2025-02-05",
       "endDate": "2025-02-20",
-      "day": "2025-02-10",
+      "day": 10,
       "duration": 55,
-      "pagesRead": 38
+      "pagesRead": 38,
+      "genre": "Drama",
+      "pages": 372,
+      "rating": 5,
+      "summary": "A story of friendship, betrayal, and redemption.",
+      "favoriteQuote": "For you, a thousand times over.",
+      "finalThought": "Emotional and unforgettable."
     }
   ]
 }

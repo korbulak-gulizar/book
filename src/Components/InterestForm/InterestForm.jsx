@@ -8,6 +8,11 @@ export default function InterestForm() {
   return (
     <>
       <div className="interest-form">
+        {/* Üst Başlık */}
+        <Title level={1} className="interest-main-title">
+          Book Goals
+        </Title>
+
         <Title level={4} className="interest-question">
           1. What book topics interest you this year?
         </Title>

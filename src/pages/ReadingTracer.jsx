@@ -68,8 +68,17 @@ export default function ReadingTracker() {
 
   return (
     <div className="readingtracker-container">
-      <Title level={2}>Reading Tracker</Title>
-      <Title level={4} style={{ marginTop: "-10px", color: "#eee" }}>
+      <Title level={1} className="readingtracker-title">
+        Reading Tracker
+      </Title>
+      <Title
+        level={4}
+        style={{
+          marginTop: "-10px",
+          color: "#eee",
+          fontFamily: "Dancing Script",
+        }}
+      >
         Of This Month
       </Title>
 

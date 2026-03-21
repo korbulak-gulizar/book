@@ -13,7 +13,7 @@ const Navbar = () => {
     { label: <Link to="/interest">Interest</Link>, key: "/interest" },
     { label: <Link to="/readinglist">Reading List</Link>, key: "/readinglist" },
     {
-      label: <Link to="/readingtracer">Reading Tracer</Link>,
+      label: <Link to="/readingtracer">Reading Tracker</Link>,
       key: "/readingtracer",
     },
     { label: <Link to="/bookrev">Book Review</Link>, key: "/bookrev" },

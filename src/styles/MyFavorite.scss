@@ -1,0 +1,32 @@
+.myfavorite-container {
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #8b6f47;
+  min-height: 100vh;
+  border-radius: 12px;
+}
+
+.myfavorite-title {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 30px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  letter-spacing: 5px;
+  font-family: "Dancing Script", cursive;
+}
+
+.favorite-card {
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.favorite-field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+
+  label {
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+}
