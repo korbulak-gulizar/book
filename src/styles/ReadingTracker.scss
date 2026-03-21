@@ -7,7 +7,14 @@
   border-radius: 12px;
   color: white;
 
-  h2,
+  .readingtracker-title {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    letter-spacing: 5px;
+    font-family: "Dancing Script", cursive;
+  }
   h4 {
     color: white;
   }

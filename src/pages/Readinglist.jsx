@@ -60,7 +60,9 @@ export default function ReadingList() {
 
   return (
     <div className="readinglist-container">
-      <Title level={2}>Reading List</Title>
+      <Title level={1} className="readinglist-title">
+        Reading List
+      </Title>
 
       <Space style={{ marginBottom: 20 }}>
         <Input

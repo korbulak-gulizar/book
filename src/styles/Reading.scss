@@ -1,0 +1,52 @@
+.reading-container {
+  min-height: 100vh;
+  background-image: url("../assets/Reading.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.reading-card {
+  max-width: 800px;
+  background: rgba(255, 255, 255, 0.85);
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 12px 15px rgba(0, 0, 0, 0.3);
+}
+
+.reading-title {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.reading-text {
+  font-size: 18px;
+  line-height: 1.7;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.reading-second-wrapper {
+  margin-top: 30px;
+  padding: 15px 20px;
+  border-left: 4px solid #5d5a2b;
+  background: #a09d6a;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.reading-second {
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.7;
+  color: #333;
+  margin: 0;
+}

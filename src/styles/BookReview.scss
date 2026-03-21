@@ -1,0 +1,29 @@
+.bookreview-container {
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #8b6f47;
+  min-height: 100vh;
+  border-radius: 12px;
+}
+
+.book-card {
+  padding: 20px;
+  background: #dcded9;
+  border-radius: 12px;
+}
+.book-author {
+  font-size: 18px;
+}
+.book-final {
+  font-size: 18px;
+}
+.bookreview-title {
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 30px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  letter-spacing: 5px;
+  font-family: "Dancing Script", cursive;
+}
